@@ -1,2 +1,4 @@
-# fiib-project-test
-Test repository for an FIIB project
+# FIIB Project Test
+
+## Project Overview
+This is a test repository created to practise using GitHub for FIIB project work.
